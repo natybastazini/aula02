@@ -52,6 +52,7 @@
     border-right: 30px solid transparent;
     border-bottom: 30px solid #ff1493;
     background-color: transparent;
+    box-shadow: none;
 }
 
 .girar{
